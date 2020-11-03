@@ -3,8 +3,8 @@
 + 70 Bison Drive, Winnipeg, MB
 + 204-509-9150
 + mrzhengzhi@163.com
-  
-##Education
+
+## Education
 + Bachelor of Engineering in Environmental Engineering/ **Hangzhou Dianzi University**
      &nbsp; *September 2007-June 2011*; Hangzhou, Zhejiang Province, China 
 + Bachelor of Science in Computer Science / **University of Manitoba**
