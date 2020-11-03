@@ -109,7 +109,7 @@ At present, our resume page is only the basic version. Fortunately, we can use t
   3. Select one of those themes that you like and click "Select theme" button.
   4. Select "code" and you will find that there is a new file "_config.yml" in your repository. This file can be used to set the theme of your resume page. Now you can go to `https://YourUsername.github.io` to see your new theme.
   
- ![image](https://github.com/mrzhengzhi/mrzhengzhi.github.io/blob/main/resume.gif)
+ ![image](images/resume.gif)
    
 ## More Resources
 #### GitHub Pages
