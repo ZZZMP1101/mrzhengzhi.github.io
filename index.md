@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+#  Zhi Zheng
 
-You can use the [editor on GitHub](https://github.com/mrzhengzhi/mrzhengzhi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
++ 70 Bison Drive, Winnipeg, MB
++ 204-509-9150
++ mrzhengzhi@163.com
+  
+##Education
++ Bachelor of Engineering in Environmental Engineering/ **Hangzhou Dianzi University**
+     &nbsp; *September 2007-June 2011*; Hangzhou, Zhejiang Province, China 
++ Bachelor of Science in Computer Science / **University of Manitoba**
+     &nbsp; *September 2016-Present* ;Winnipeg, MB, Canada
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Soft Skills
++ Strong understanding and learning ability
++ Be conscientious and responsible for the work
++ Strong problem solving ability
 
-### Markdown
+## Technical Skills
+### Languages
+     Java, JavaScript, C++, C, Python
+### Tools
+    Eclipse, Visual Studio Code, JUnit, Processing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrzhengzhi/mrzhengzhi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Volunteer Experience
+Assistant Stage Manager/**Folklorama, Chinese Pavilion** 
+&nbsp;*September, 2016*; Winnipeg, MB, Canada   
+## Work experience
+Book editor/**Chemical Industry Press**
+&nbsp; *July 2011-November 2015*; Beijing, China
++ Responsible for communication with the author
++ Editing and proofreading books
