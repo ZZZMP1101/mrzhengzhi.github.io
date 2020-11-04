@@ -143,9 +143,7 @@ This Tutorial was written by [Zhi Zheng](https://github.com/mrzhengzhi).
 
 
 My group members:
- Jaskeerat Singh
- Ali Jasim
- Matthew De La Torre
+ Jaskeerat Singh, Ali Jasim, Matthew De La Torre
 
 
 
