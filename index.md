@@ -21,6 +21,7 @@
 ## Technical Skills
 ### Languages
      Java, JavaScript, C++, C, Python
+     
 ### Tools
     Eclipse, Visual Studio Code, JUnit, Processing
 
