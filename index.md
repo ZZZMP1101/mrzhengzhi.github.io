@@ -7,11 +7,11 @@
 ## Education
 + Bachelor of Engineering in Environmental Engineering/ **Hangzhou Dianzi University**
 
-       &nbsp; *September 2007-June 2011*; Hangzhou, Zhejiang Province, China 
+     &nbsp; *September 2007-June 2011*; Hangzhou, Zhejiang Province, China 
        
 + Bachelor of Science in Computer Science / **University of Manitoba**
 
-       &nbsp; *September 2016-Present* ;Winnipeg, MB, Canada
+     &nbsp; *September 2016-Present* ;Winnipeg, MB, Canada
 
 ## Soft Skills
 + Strong understanding and learning ability
