@@ -149,7 +149,9 @@ My group members:
 
 ## FAQs
 **1. Why is Markdown better than a word processor?**
+
 Markdown is a simple lightweight language, so it's very easy to learn. It has no complex syntax and functions, so it is very efficient to use. Markdown files can be easily converted into HTML and PDF files. In the field of technology, it is widely used to create documentations, such as on GitHub. Therefore, as students of CS, markdown is a better choice for us.
 
 **2. How do I update my resume ?**
+
 First, go to your resume repository. Second, click `index.md` file. Third, click the pencil icon on the right (i.e."Edit this file"). After that, you can edit your resume. You can view changes through the "Preview changes". After you finish editing, you need to click the green button "commit changes" at the bottom. Now you have finished updating your resume! Very easy, right?
