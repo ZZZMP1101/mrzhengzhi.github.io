@@ -39,7 +39,7 @@ I hope that through this practice, you can understand the following key concepts
  **3. Making static websites.** Static websites are efficient, simple and secure because they do not need databases, server side dependencies, or installation of anything else. We can use a static website generator with lightweight markup language and theme template to generate them. In this tutorial, we will learn how to generate a static website page in GitHub and use the Jekyll template.
 
 
-#### Convert your resume to Markdown format
+### Convert your resume to Markdown format
 
 The following is a step-by-step tutorial on using markdown to make a resume.
 
@@ -95,7 +95,7 @@ The following is a step-by-step tutorial on using markdown to make a resume.
 
    ```
 
-  #### Add your resume to GitHub
+  ### Add your resume to GitHub
   1. Sign up and log in your GitHub account.
 
   2. Create a new repository on Github.
@@ -113,7 +113,7 @@ The following is a step-by-step tutorial on using markdown to make a resume.
   7. Click the "Commit new file" button at the bottom.
    Now, your resume is hosted on Github pages. If you want to see it, go to `https://[Your Username].github.io`. For example, my resume is hosted on `https://mrzhengzhi.github.io`.
 
-   #### Customize the theme of your resume page
+   ### Customize the theme of your resume page
 At present, our resume page is only the basic version. Fortunately, we can use the some Jekyll template that comes with GitHub pages to change the appearance and style of our resume pages.
   1. Click  "Settings" in your repository.
    ![](images/settings.png)
