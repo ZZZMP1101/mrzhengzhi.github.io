@@ -31,9 +31,12 @@ Also, through this tutorial, you can understand the key concepts from Andrew Ett
 
 ## Instructions
 I hope that through this practice, you can understand the following key concepts in Andrew Etter's book: 
-**1. Using a lightweight markup language."** It is easier to generate well-formed documentation using lightweight markup language. It is simple, easy to read and easy to learn, which can increase developer's enthusiasm to contribute to technical writing. In this tutorial, we will use the most widely used lightweight markup language **Markdown**. 
-**2. Using distributed version control systems.**  Distributed version control systems have high performance and can be used offline. We can put the code and the corresponding documentation in the same repository, which makes it easy to keep them in sync. In this tutorial, we will use distributed version control systems through GitHub.
-**3. Making static websites.** Static websites are efficient, simple and secure because they do not need databases, server side dependencies, or installation of anything else. We can use a static website generator with lightweight markup language and theme template to generate them. In this tutorial, we will learn how to generate a static website page in GitHub and use the Jekyll template.
+
+ **1. Using a lightweight markup language."** It is easier to generate well-formed documentation using lightweight markup language. It is simple, easy to read and easy to learn, which can increase developer's enthusiasm to contribute to technical writing. In this tutorial, we will use the most widely used lightweight markup language **Markdown**. 
+
+ **2. Using distributed version control systems.**  Distributed version control systems have high performance and can be used offline. We can put the code and the corresponding documentation in the same repository, which makes it easy to keep them in sync. In this tutorial, we will use distributed version control systems through GitHub.
+
+ **3. Making static websites.** Static websites are efficient, simple and secure because they do not need databases, server side dependencies, or installation of anything else. We can use a static website generator with lightweight markup language and theme template to generate them. In this tutorial, we will learn how to generate a static website page in GitHub and use the Jekyll template.
 
 
 #### Convert your resume to Markdown format
