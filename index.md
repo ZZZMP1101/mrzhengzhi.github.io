@@ -30,5 +30,5 @@ Assistant Stage Manager/**Folklorama, Chinese Pavilion**
 ## Work experience
 Book editor/**Chemical Industry Press**
 &nbsp; *July 2011-November 2015*; Beijing, China
-+ Responsible for communication with the author
++ Responsible for communication with the authors
 + Editing and proofreading books
