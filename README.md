@@ -18,7 +18,7 @@ Welcome! We will learn how to host a resume on GitHub Pages!
 
 ## Purpose
 This tutorial will guide you how to create a markdown formatted resume by markdown editor. After that, you will learn how to build a repository on GitHub and how to add your resume to the repository. Further, you will learn how to change the theme of your resume. 
-Also, through this tutorial, you can understand the key concepts from Andrew Etter's book *"Modern Technical Writing: An Introduction to Software Documentation"* :
+Also, through this tutorial, you can understand the key concepts from Andrew Etter's book *"Modern Technical Writing: An Introduction to Software Documentation"*.
 
 ## Prerequisites
 1. A Markdown editor.
